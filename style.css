@@ -16,6 +16,12 @@ h1 {
     text-align: center;
 }
 
+.subtitle {
+    text-align: center;
+    color: #666666;
+    margin-top: -10px;
+}
+
 img {
     width: 300px;
     max-width: 100%;
@@ -69,6 +75,20 @@ nav a:hover {
 
 .card:hover {
     transform: translateY(-4px);
+}
+
+button {
+    background-color: #2a4d9b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1f3b78;
 }
 
 @media (max-width: 600px) {
