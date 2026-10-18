@@ -6,7 +6,7 @@ A personal portfolio website built with HTML and CSS.
 I am Christian Ukaegbu, learning web development and design.
 
 ## What I used
-JavaScript
+- JavaScript
 - HTML
 - CSS (Flexbox and responsive design)
 
